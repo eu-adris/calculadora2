@@ -1,2 +1,2 @@
 # calculadora2
-nova calculadora usando outro método JS
+Calculadora usando html(bootstrap) e o método switch do JavaScript.
